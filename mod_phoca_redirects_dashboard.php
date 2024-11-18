@@ -22,7 +22,7 @@ $wa->registerAndUseStyle('mod_phoca_redirects_dashboard', 'media/mod_phoca_redir
 
 $data = [];
 $count = (int)PhocaRedirectsDashboardHelper::getDataCount();
-$count = 1010000;
+
 $data['force_stop_collect']  = 0;
 $url_count_stop = (int)$params->get('url_count_stop', 0);
 if ($url_count_stop > 0 && $count >= $url_count_stop) {

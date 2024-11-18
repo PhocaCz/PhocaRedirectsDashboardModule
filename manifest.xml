@@ -10,7 +10,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaRedirectsDashboardModule/releases/download/5.0.0/mod_phoca_redirects_dashboard_v5.0.0.zip</downloadurl>
 		</downloads>
-		<sha512>12e043258a7c2e9aba4bcff8dead8f57a562a0d8b154a335ca127af19200ce462405eee10c139b69aacb276d0954ddfc060c804ca74f112ec5121172a2e3fc6f</sha512>
+		<sha512>8e06705ae081a7c47c6316041444b8f4c057b51835ffc3a77cc44c7c48f90b884f200c1033a4b7656b6eaed0e07917994c408f5627b11fb97ac1657cc8b5646b</sha512>
 		<tags>
 			<tag>stable</tag>
 		</tags>

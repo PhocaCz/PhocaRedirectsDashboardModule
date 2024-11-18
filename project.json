@@ -1,0 +1,16 @@
+{
+	"author": "Jan Pavelka (www.phoca.cz)",
+	"authorUrl": "https://www.phoca.cz",
+	"copyright": "Jan Pavelka",
+	"license": "GNU/GPL",
+	"projectName": "PhocaRedirectsDashboardModule",
+	"extensionName": "Phoca Redirects Dashboard Module",
+	"projectInitials" : "RM",
+	"description": "Phoca Redirects Dashboard Module - displays important information about redirects in the administration dashboard.",
+	"nameSpace": "Joomla\\Module\\PhocaRedirectsDashboard",
+	"projectUrl": "https://www.phoca.cz/phoca-redirects-dashboard-module",
+	"projectDocumentationUrl": "https://www.phoca.cz/documentation/",
+	"projectDemo" : {
+	},
+	"projectColor": "#C14641"
+}

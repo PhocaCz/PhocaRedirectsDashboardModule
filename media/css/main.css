@@ -1,0 +1,48 @@
+.cpanel .card:has(.phocaRedirectsDashboard.enabled.collect),
+.cpanel .card .card-header:has(.phocaRedirectsDashboard.enabled.collect),
+.cpanel .card .card-body:has(.phocaRedirectsDashboard.enabled.collect),
+.cpanel .card:has(.phocaRedirectsDashboard.enabled.collect) h3{
+	background: #de350b;
+	color: #fff;
+}
+
+.ph-redirect-info-box {
+	display: flex;
+	align-items: center;
+}
+.ph-light {
+	margin-right: 0.25em;
+	font-weight: 900;
+	border: 2px solid #fff;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	display: inline-block;
+}
+.phocaRedirectsDashboard .ph-green {
+	color: green;
+	background: green;
+}
+.phocaRedirectsDashboard .ph-orange {
+	color: orange;
+	background: orange;
+}
+.phocaRedirectsDashboard .ph-red {
+	color: red;
+	background: red;
+}
+.phocaRedirectsDashboard .ph-neutral {
+	color: transparent;
+	background: transparent;
+	border: 2px solid transparent;
+}
+.ph-redirect-info-box b{
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+body:has(.phocaRedirectsDashboard.enabled.collect.alarm),
+body:has(.phocaRedirectsDashboard.enabled.collect.alarm) .sidebar-wrapper {
+	background: #de350b !important;
+	color: #fff !important;
+}

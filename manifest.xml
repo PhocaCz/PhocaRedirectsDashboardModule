@@ -5,19 +5,19 @@
 		<description><![CDATA[ Phoca Redirects Dashboard Module - displays important information about redirects in the administration dashboard. ]]></description>
 		<element>mod_phoca_redirects_dashboard</element>
 		<type>module</type>
-		<version>5.0.0</version>
-		<infourl title="Phoca Redirects Dashboard Module 5.0.0">https://www.phoca.cz/</infourl>
+		<version>5.1.0</version>
+		<infourl title="Phoca Redirects Dashboard Module 5.1.0">https://www.phoca.cz/</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaRedirectsDashboardModule/releases/download/5.0.0/mod_phoca_redirects_dashboard_v5.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaRedirectsDashboardModule/releases/download/5.1.0/mod_phoca_redirects_dashboard_v5.1.0.zip</downloadurl>
 		</downloads>
-		<sha512>8e06705ae081a7c47c6316041444b8f4c057b51835ffc3a77cc44c7c48f90b884f200c1033a4b7656b6eaed0e07917994c408f5627b11fb97ac1657cc8b5646b</sha512>
+		<sha512>03192a5af945c9f55511afa7381df232d57a6a2edf7f4a2fcfb00faeb42433b9e630d53961d9cf70c8d369458596a2c2924ee343d35bdc29ba50d6fce6e9ff2e</sha512>
 		<tags>
 			<tag>stable</tag>
 		</tags>
 		<maintainer><![CDATA[ Phoca.cz ]]></maintainer>
 		<maintainerurl>https://www.phoca.cz/</maintainerurl>
 		<section>Updates</section>
-		<targetplatform name="joomla" version="(4|5)\.*"/>
+		<targetplatform name="joomla" version="5\.*"/>
 		<client>administrator</client>
 	</update>
 </updates>

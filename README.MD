@@ -50,7 +50,7 @@ Phoca Redirects Dashboard Module - displays important information about redirect
 
 ## Version (Joomla! 5.x)
 
-5.0.0
+5.1.0
 
 
 

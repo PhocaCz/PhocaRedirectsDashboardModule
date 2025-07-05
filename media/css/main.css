@@ -42,7 +42,8 @@
 }
 
 body:has(.phocaRedirectsDashboard.enabled.collect.alarm),
-body:has(.phocaRedirectsDashboard.enabled.collect.alarm) .sidebar-wrapper {
+body:has(.phocaRedirectsDashboard.enabled.collect.alarm) .sidebar-wrapper,
+body:has(.phocaRedirectsDashboard.enabled.collect.alarm) .container-main{
 	background: #de350b !important;
 	color: #fff !important;
 }
